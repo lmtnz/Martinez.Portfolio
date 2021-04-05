@@ -1,0 +1,58 @@
+h2, h3, h4, h5, p, nav {
+    font-family: 'Old Standard TT', serif;
+}
+h1, table, .navbar-brand, #acc {
+    font-family: 'Roboto Mono', monospace;
+}
+.blk {
+    background-color: #24242c;
+    color:white;
+}
+.w-100 {
+  width:640px;
+  height:550px;
+}
+#dark {
+    color: black;
+    background-color: white;
+}
+#tbl {
+    padding-top: 20px;
+}
+#cs {
+    width: 350px;
+    height:370px; 
+    padding-top:8px;
+    padding-right:7px;
+  
+}
+.mg{
+    margin:10px;
+    padding-top:5px;
+    padding-bottom:5px;
+    text-align:center;
+}
+.imge{
+    width:100px;
+    height:100px;
+}
+.gl{
+    width:300px;
+    height:300px;
+}
+.gly{
+    width:270px;
+    height:400px;
+}
+.col-md-3{
+    padding-top:7px;
+}
+.jumbotron {
+    text-align: center ;
+    margin-top:20px;
+    margin-bottom:20px;
+   padding-top:45px;
+   padding-bottom:45px;
+    background-color: #24242c ;
+    color: white;
+}
